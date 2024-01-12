@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @toneemarqus
-- 📫 How to reach me : toneemarqus@gmail.com
-
-<!---
-toneemarqus/toneemarqus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me : https://www.linkedin.com/in/tonee-marqus-1002251b7/
+- ✨ My medium blog: https://medium.com/@toneemarqus
