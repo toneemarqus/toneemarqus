@@ -3,4 +3,4 @@
 - ✨ My medium blog: https://medium.com/@toneemarqus
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toneemarqus)](https://github.com/toneemarqus/github-readme-stats)
+![Profile views](https://counter.kuber.studio/toneemarqus/hacker/count.svg)
